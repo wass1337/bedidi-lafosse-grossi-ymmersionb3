@@ -24,14 +24,13 @@ Ce projet a été réalisé en utilisant les technologies suivantes :
 
 ## Installation et Utilisation
 
-1. Clonez ce dépôt sur votre machine locale :
+1. Clonez ce dépôt sur votre machine :
 
    ```bash
-   git clone https://github.com/wass1337/ProjetYnov1.git
+   git clone https://github.com/wass1337/bedidi-lafosse-grossi-ymmersionb3.git
 
 2. Ouvrir à l'aide de VSCode le repo que vous venez de cloner
-3. Installer l'extension "Live Server" sur VSCode.
-4. Télécharger MAMP sur votre pc
+4. Téléchargez MAMP sur votre PC
 5. Placez le dossier récupérer sur git sur votre pc dans le dossier suivant : c:\MAMP\htdocs
-6. Insérer la base de données sql (fichier : projetweb.sql) dans phpmyadmin après avoir lancer votre serveur local depuis Mamp
-7. tapez : localhost dans votre navigateur puis sur le lien : Projetweb/
+6. Insérez la base de données sql (fichier : projetweb.sql) dans PHPMyAdmin après avoir lancé votre serveur local depuis MAMP
+7. Tapez : localhost dans votre navigateur puis sur le lien : Projetweb/
